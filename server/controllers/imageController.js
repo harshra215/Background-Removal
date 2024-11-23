@@ -1,4 +1,4 @@
-import axios from 'axios'
+import axios from 'axios';
 import fs from 'fs'
 import FormData from 'form-data'
 import userModel from '../models/userModel.js';
@@ -18,6 +18,7 @@ const removeBgImage = async (req,res)=> {
         }
 
         const imagePath = req.file.path
+        
         // Reading the Image file
         const imageFile = fs.createReadStream(imagePath)
         const formdata = new FormData()
