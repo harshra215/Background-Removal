@@ -34,7 +34,7 @@ This project is a **Background Removal Application** built using the **MERN stac
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/bg_removal.git
+git clone https://github.com/ai-rupak/Bg-Removal-App.git
 cd bg_removal
 ```
 
