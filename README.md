@@ -32,5 +32,8 @@ This project is a **Background Removal Application** built using the **MERN stac
 - MongoDB instance running locally or on a cloud provider.
 - A Razorpay account for payment integration (optional).
 
+### Frontend of this App
+https://ibb.co/Ky6BpFx
+
 
 
